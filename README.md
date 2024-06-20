@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá minha gente
 
-<!--
-**ThalisAssis45/ThalisAssis45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Thalis
 
-Here are some ideas to get you started:
+estou na escola estudando na ALura
+utilizo este espaço para minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://tenor.com/pt-BR/view/black-power-im-black-yall-hell-yeah-fists-up-fist-pump-gif-4865486)
+
+
+
+
+
+
